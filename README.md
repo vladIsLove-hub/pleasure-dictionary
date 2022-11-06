@@ -3,7 +3,7 @@ This is a small and very fast Chrome Extension will help you save all necessary 
 
 ## How to set it up? 
 
-1. Clone repo: `git clone https://github.com/vladIsLove-hub/pleasure-dictionary`
+1. Clone repo: `git clone https://github.com/vladIsLove-hub/pleasure-dictionary` or just download it as a ZIP file.
 2. Open Chrome
 3. Join into Chrome extensions store (Click on three dots at the right side -> More tools -> Extensions)
 4. Pick out: "Load unpacked" and load this extension that has been downloaded.
