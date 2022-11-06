@@ -1,0 +1,10 @@
+{
+  "name": "pleasure-dictionary",
+  "version": "1.0.0",
+  "description": "Extension that helps you save your necessary words",
+  "main": "index.js",
+  "keywords": ["JS", "Automation"],
+  "author": "Vladislav Evtushenko",
+  "license": "ISC",
+  "type": "module"
+}
